@@ -9,20 +9,20 @@ Status: published
 
 # Ngai Man Jeffrey Ding
 
-thejeffreyding@gmail.com
-(204) 951-0415
+thejeffreyding@gmail.com  
+(204) 951-0415  
 Winnipeg, MB
 
 
 ## Education
 
-**B.Sc. Major in Computer Science**
-_University of Manitoba_
+**B.Sc. Major in Computer Science**  
+_University of Manitoba_  
 _09/2020 - Present_
 
 ## Work Experience
-**Technician Support Assistant (PT)**
-_Speedy_ &nbsp;_Hong Kong_
+**Technician Support Assistant (PT)**  
+_Speedy_ &nbsp;_Hong Kong_  
 _07/2020-08/2021_
 `Achievements:`
 * Server maintenance
