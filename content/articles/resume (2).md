@@ -1,6 +1,11 @@
 ﻿Title: Resume
 Date: 2025-03-06
-Author: Ngai Man Jeffrey Ding
+Modified: 2025-03-06
+Category: Blog
+Tags: pelican, markdown
+Slug: resume-page
+Authors: Ngai Man Jeffrey Ding
+Status: published
 
 # Ngai Man Jeffrey Ding
 
