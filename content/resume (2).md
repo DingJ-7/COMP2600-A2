@@ -1,4 +1,7 @@
-﻿
+﻿Title: Resume
+Date: 2025-03-06
+Author: Ngai Man Jeffrey Ding
+
 # Ngai Man Jeffrey Ding
 
 thejeffreyding@gmail.com
